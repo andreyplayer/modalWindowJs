@@ -1,1 +1,2 @@
-console.log('keque')
+console.log('keque');
+console.log('test');
